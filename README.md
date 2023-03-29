@@ -7,13 +7,13 @@ Os Commits são unidades individuais de alterações que podem ser adicionadas a
 
 Em geral, a equipe deve seguir as práticas recomendadas de gerenciamento de versão, como o Git Flow ou o GitHub Flow, para garantir uma colaboração eficiente e organizada. Essas práticas ajudam a evitar conflitos entre diferentes desenvolvedores, a manter uma trilha clara de alterações e a garantir que o código seja testado e revisado antes de ser mesclado (merged) na branch principal.
 
-1 - Adote as práticas de gerenciamento de projetos, como definido pelo Gartner, que envolvem a aplicação de conhecimento, habilidades, ferramentas e técnicas para atender aos requisitos do projeto. [1]
+1 - Adote as práticas de gerenciamento de projetos, como definido pelo Gartner, que envolvem a aplicação de conhecimento, habilidades, ferramentas e técnicas para atender aos requisitos do projeto. 
 
 
-2 - Considere a adoção de práticas de gerenciamento de projetos ágeis, como o Scrum, que é um framework poderoso para implementar processos ágeis em projetos de desenvolvimento de software e outros projetos. [2]
+2 - Considere a adoção de práticas de gerenciamento de projetos ágeis, como o Scrum, que é um framework poderoso para implementar processos ágeis em projetos de desenvolvimento de software e outros projetos.
 
 
-3 - Aprenda tudo o que puder sobre gerenciamento de projetos ágeis, incluindo Scrum, para ter uma compreensão completa das metodologias e práticas envolvidas. [3]
+3 - Aprenda tudo o que puder sobre gerenciamento de projetos ágeis, incluindo Scrum, para ter uma compreensão completa das metodologias e práticas envolvidas. 
 
 
 4 - Crie um plano de projeto claro e bem definido, com prazos e metas realistas, que possa ser facilmente comunicado e entendido por todos os membros da equipe. 
